@@ -1,0 +1,3 @@
+feignz自带的终端路由，如果不想用在配置文件中关闭即可！
+feign.hystrix.enabled=false
+
